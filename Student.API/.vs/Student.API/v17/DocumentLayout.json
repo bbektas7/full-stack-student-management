@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berka\\Desktop\\StudentProject\\Student.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{256BC4EB-4E1B-4097-A651-D9C7F19D4DCF}|Student.API\\Student.API.csproj|c:\\users\\berka\\desktop\\studentproject\\student.api\\student.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{256BC4EB-4E1B-4097-A651-D9C7F19D4DCF}|Student.API\\Student.API.csproj|solutionrelative:student.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{256BC4EB-4E1B-4097-A651-D9C7F19D4DCF}|Student.API\\Student.API.csproj|c:\\users\\berka\\desktop\\studentproject\\student.api\\student.api\\repositories\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{256BC4EB-4E1B-4097-A651-D9C7F19D4DCF}|Student.API\\Student.API.csproj|solutionrelative:student.api\\repositories\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{256BC4EB-4E1B-4097-A651-D9C7F19D4DCF}|Student.API\\Student.API.csproj|c:\\users\\berka\\desktop\\studentproject\\student.api\\student.api\\domainmodels\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{256BC4EB-4E1B-4097-A651-D9C7F19D4DCF}|Student.API\\Student.API.csproj|solutionrelative:student.api\\domainmodels\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{256BC4EB-4E1B-4097-A651-D9C7F19D4DCF}|Student.API\\Student.API.csproj|c:\\users\\berka\\desktop\\studentproject\\student.api\\student.api\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{256BC4EB-4E1B-4097-A651-D9C7F19D4DCF}|Student.API\\Student.API.csproj|solutionrelative:student.api\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{256BC4EB-4E1B-4097-A651-D9C7F19D4DCF}|Student.API\\Student.API.csproj|c:\\users\\berka\\desktop\\studentproject\\student.api\\student.api\\repositories\\sqlstudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{256BC4EB-4E1B-4097-A651-D9C7F19D4DCF}|Student.API\\Student.API.csproj|solutionrelative:student.api\\repositories\\sqlstudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\Desktop\\StudentProject\\Student.API\\Student.API\\DomainModels\\Student.cs",
+              "RelativeDocumentMoniker": "Student.API\\DomainModels\\Student.cs",
+              "ToolTip": "C:\\Users\\berka\\Desktop\\StudentProject\\Student.API\\Student.API\\DomainModels\\Student.cs",
+              "RelativeToolTip": "Student.API\\DomainModels\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:31:14.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\Desktop\\StudentProject\\Student.API\\Student.API\\Repositories\\IImageRepository.cs",
+              "RelativeDocumentMoniker": "Student.API\\Repositories\\IImageRepository.cs",
+              "ToolTip": "C:\\Users\\berka\\Desktop\\StudentProject\\Student.API\\Student.API\\Repositories\\IImageRepository.cs",
+              "RelativeToolTip": "Student.API\\Repositories\\IImageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:29:18.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\Desktop\\StudentProject\\Student.API\\Student.API\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Student.API\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\berka\\Desktop\\StudentProject\\Student.API\\Student.API\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Student.API\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAgwD4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:04:39.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SqlStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\Desktop\\StudentProject\\Student.API\\Student.API\\Repositories\\SqlStudentRepository.cs",
+              "RelativeDocumentMoniker": "Student.API\\Repositories\\SqlStudentRepository.cs",
+              "ToolTip": "C:\\Users\\berka\\Desktop\\StudentProject\\Student.API\\Student.API\\Repositories\\SqlStudentRepository.cs",
+              "RelativeToolTip": "Student.API\\Repositories\\SqlStudentRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwE4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:00:06.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\Desktop\\StudentProject\\Student.API\\Student.API\\Repositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Student.API\\Repositories\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\berka\\Desktop\\StudentProject\\Student.API\\Student.API\\Repositories\\IStudentRepository.cs",
+              "RelativeToolTip": "Student.API\\Repositories\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:59:41.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
